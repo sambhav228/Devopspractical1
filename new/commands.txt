@@ -1,0 +1,22 @@
+git --version
+
+
+
+git init
+
+
+
+touch f.txt (created)
+
+vi f.txt
+
+click on insert button to write
+
+write some data -----click esc button :wq (to get back to gitbash)
+
+
+git status --red area----
+
+git add f.txt
+
+git status (green color)
