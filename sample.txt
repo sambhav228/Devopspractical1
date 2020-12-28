@@ -1,0 +1,4 @@
+------DEVOPS---------
+Development Operations to provide collaboration 
+
+DevOps is not a tool it a culture to provide efficient collaboration between development work.
